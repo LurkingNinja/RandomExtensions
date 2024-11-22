@@ -8,11 +8,11 @@ You can choose manually install this package or install from GitHub source.
 Use the Package Manager's ```+/Add package from git URL``` function.
 The URL you should use is this:
 ```
-https://github.com/LurkingNinja/com.lurking-ninja.RandomExtensions.git?path=Packages/com.lurking-ninja.random-extensions
+https://github.com/LurkingNinja/RandomExtensions.git?path=Packages/com.lurking-ninja.random-extensions
 ```
 
 ### Manual install
-1. Download the latest ```.zip``` package from the [Release](https://github.com/LurkingNinja/com.lurking-ninja.random-extensions/releases) section.
+1. Download the latest ```.zip``` package from the [Release](https://github.com/LurkingNinja/RandomExtensions/releases) section.
 2. Unpack the ```.zip``` file into your project's ```Packages``` folder.
 3. Open your project and check if it is imported properly.
 

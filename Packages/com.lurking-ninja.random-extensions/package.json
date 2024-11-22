@@ -1,0 +1,16 @@
+﻿{
+  "name": "com.lurking-ninja.random-extensions",
+  "displayName": "Random Extensions",
+  "description": "Recreation of AnnulusGames' package purely for Unity",
+  "version": "1.0.4",
+  "unity": "2021.3",
+  "documentationUrl": "https://github.com/LurkingNinja/com.lurking-ninja.random-extensions",
+  "changelogUrl": "https://github.com/LurkingNinja/com.lurking-ninja.random-extensions/blob/main/CHANGELOG.md",
+  "license": "MIT",
+  "licensesUrl": "https://github.com/LurkingNinja/com.lurking-ninja.random-extensions/blob/main/LICENSE",
+  "author": {
+    "name": "Lurking Ninja",
+    "email": "dev@lurking-ninja.com",
+    "url": "https://lurking-ninja.com/"
+  }
+}

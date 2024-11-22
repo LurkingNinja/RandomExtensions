@@ -8,7 +8,7 @@ You can choose manually install this package or install from GitHub source.
 Use the Package Manager's ```+/Add package from git URL``` function.
 The URL you should use is this:
 ```
-https://github.com/LurkingNinja/com.lurking-ninja.random-extensions.git?path=Packages/com.lurking-ninja.random-extensions
+https://github.com/LurkingNinja/com.lurking-ninja.RandomExtensions.git?path=Packages/com.lurking-ninja.random-extensions
 ```
 
 ### Manual install

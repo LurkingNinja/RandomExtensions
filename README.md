@@ -177,7 +177,7 @@ public interface IWeightedCollection<T> : IReadOnlyCollection<WeightedValue<T>>
 }
 
 // Struct representing a weighted element
-public rrecord struct WeightedValue<T>(T Value, double Weight);
+public record struct WeightedValue<T>(T Value, double Weight);
 ```
 
 Below is a sample of using `WeightedList<T>` for weighted selection.

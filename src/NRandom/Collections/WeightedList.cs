@@ -107,6 +107,7 @@ public class WeightedList<T> : IReadOnlyWeightedList<T>, IList<WeightedValue<T>>
     public void Clear()
     {
         list.Clear();
+        totalWeight = 0.0;
     }
 
     public bool Contains(WeightedValue<T> item)
